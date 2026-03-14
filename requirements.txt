@@ -1,0 +1,10 @@
+pinecone>=3.0.0
+sentence-transformers
+pypdf
+langchain-text-splitters
+transformers>=4.43.0
+peft
+accelerate
+bitsandbytes
+unsloth
+torch
