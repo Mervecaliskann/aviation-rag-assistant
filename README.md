@@ -115,6 +115,7 @@ Scores reflect document coverage — the report focuses more on data quality tha
 ```
 aviation-rag-assistant/
 ├── Aviation_RAG_Assistant_v2.ipynb   # Full pipeline notebook
+├── pinecone.png
 ├── dot_flight_delays_2024.pdf        # Source document (DOT OIG)
 ├── requirements.txt
 └── README.md
